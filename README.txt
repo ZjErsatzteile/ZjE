@@ -1,0 +1,1 @@
+WICHTIG: Diese Version besteht absichtlich nur aus EINER index.html. Logo und Beispielbilder sind darin eingebaut. Auf GitHub Pages nur diese index.html hochladen.
